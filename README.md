@@ -3,3 +3,4 @@ In this project, I have designed a database management system to store informati
 # ER-MODEL
 ![ER_diagram](https://github.com/user-attachments/assets/4c731887-7981-4a6e-8fc5-26e6b6d80eba)
 # RS Diagram
+![RS](https://github.com/user-attachments/assets/4bf8727c-13d5-4388-aa0f-dbf78afffe1e)
